@@ -1,0 +1,29 @@
+html{
+  height: 100%;
+}
+
+.bottom{
+  background: #edc7b7;
+  text-align: center;
+  margin-top: auto;
+  min-height:100%;
+  padding-top: 50px;
+}
+a{
+  color: #ac3b61;
+  font-family: 'Montserrat', sans-serif;
+  margin:30px 30px;
+  text-decoration: none;
+}
+
+a:hover{
+  background: #edc7b7;
+}
+
+.copyright{
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: #ac3b61;
+  font-size: 0.75rem;
+}
